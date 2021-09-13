@@ -1,4 +1,4 @@
 # Index
 
-- ["StudentHelper(Windows Application)"]()
-- ["StudentHelper(Code)]()
+- [StudentHelper(Windows Application)]()
+- [StudentHelper(Code)]()
